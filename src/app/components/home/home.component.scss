@@ -1,0 +1,19 @@
+.me{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.home{
+    width: 1338px;
+    height: 90vh;
+    background-color: black;
+    margin-left: 3%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width: 220px;
+    height: 58vh;
+}
